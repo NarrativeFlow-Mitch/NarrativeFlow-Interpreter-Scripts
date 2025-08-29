@@ -43,7 +43,7 @@ So if there's an obvious optimization or better way of doing something, thank yo
 
 # How To Use The Interpreter Script In Your Game Engine
 
-To learn how to use the Interpreter Script in your game engine, be sure to read the [NarrativeFlow docs page] about it.
+To learn how to use the Interpreter Script in your game engine, be sure to read the [NarrativeFlow docs page](https://narrativeflow.dev/narrativeflow-docs/Using+NarrativeFlow+With+Your+Game+Engine) about it.
 
 # License
 
