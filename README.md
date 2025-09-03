@@ -1,5 +1,7 @@
 # Hey there! Welcome to NarrativeFlow.
 
+![NarrativeFlow Logo](/assets/NarrativeFlow-Logo-With-Text.webp)
+
 My name is Mitch. I'm the creator of NarrativeFlow.
 
 Here, in this repo, you'll find the Interpreter Scripts for using your compiled NarrativeFlow project files with your game engine.
@@ -9,6 +11,8 @@ Don't know what NarrativeFlow is?
 If you're a video game dev who needs stellar narrative for your game, NarrativeFlow gives you the freedom to visually design powerful narrative—***fast***.
 
 Check out NarrativeFlow here: [NarrativeFlow](https://narrativeflow.dev)
+
+![NarrativeFlow Interface](/assets/Welcome-To-NarrativeFlow.webp)
 
 # Get The Interpreter Script
 
@@ -41,8 +45,6 @@ So if there's an obvious optimization or better way of doing something, thank yo
 
 To learn how to use the Interpreter Script in your game engine, be sure to read the [NarrativeFlow docs page](https://narrativeflow.dev/narrativeflow-docs/Using+NarrativeFlow+With+Your+Game+Engine) about it.
 
-# License
-
 ## Code License For NarrativeFlow's Interpreter Scripts
 
 In an effort to protect my livelihood (thank you for supporting my family!), I use a slightly modified MIT license.
@@ -74,4 +76,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 I'm so excited to see the incredible video game narratives that you've created with NarrativeFlow!
 
 Thank you for your support and kindness,
+
 — Mitch
