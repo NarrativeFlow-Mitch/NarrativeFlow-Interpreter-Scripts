@@ -55,7 +55,8 @@ Other than that, I want you to use the Interpreter Script in your commercial pro
 
 If you have any questions about the license or Interpreter Script, please [reach out to me here](https://narrativeflow.dev/lets-talk).
 
-### NarrativeFlow Interpreter Script Code License – Modified MIT License
+<details>
+    <summary>NarrativeFlow Interpreter Script Code License – Modified MIT License</summary>
 
 **Copyright (c) 2025 NarrativeFlow LLC**
 
@@ -70,6 +71,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 4. This copyright notice and permission notice must be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</details>
 
 ---
 
